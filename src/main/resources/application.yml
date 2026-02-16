@@ -1,0 +1,6 @@
+openai:
+  api-key: --
+
+logging:
+  pattern:
+    console: "%level %pid --- [%thread] %logger{36} : %msg%n"
